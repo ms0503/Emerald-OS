@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "源真ゴシック等幅, Consolas, 'Courier New', monospace",
+		"editor.renderWhitespace": "all",
+		"editor.trimAutoWhitespace": false,
+		"files.autoSave": "afterDelay",
+		"diffEditor.ignoreTrimWhitespace": false
+	}
+}

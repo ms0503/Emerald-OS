@@ -1,0 +1,5 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.trimAutoWhitespace": false,
+    "editor.renderWhitespace": "all"
+}
