@@ -1,0 +1,39 @@
+Please submit bug reports, patches, and enhancement requests via
+
+                        ms0503@outlook.com
+
+This directory and its subdirectories contain the Emerald OS
+distribution for Linux systems.
+
+The contents of all directories are given in this file.
+
+The base directory ./ contains the autoconfiguration files, source
+directory and related stuff:
+
+COPYING       A copy of the license text of the GPL.
+
+INSTALL       Generic installation instructions for autoconf-based programs.
+
+NEWS          What's new in this release.
+
+README        This file.
+
+Makefile.am   Automake file configuration file. Edit only if you have the
+              GNU automake and autoconf utilities installed.
+
+Makefile.in   Autoconf make file template for Unix.
+
+config.h.in   Configuration file generated automatically from
+              configure.in. Do not edit.
+
+configure     Script used to configure the distribution.
+
+configure.in  Master configuration template. Edit only if you have the
+              GNU automake and autoconf utilities installed.
+
+install-sh    Script to install a program, script or data file.
+
+src           Directory containing the sources.
+
+Sora Tonami (ms0503@outlook.com)
+16 January 2021

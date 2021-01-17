@@ -1,0 +1,9 @@
+#ifndef __EMERALDOS_ERROR__
+    #define __EMERALDOS_ERROR__
+
+    #define EMOS_SUCCESS 0
+    #define EMOS_ERROR_OTHER 1
+    #define EMOS_ERROR_CONFFILE_READ_FAILURE 2
+    #define EMOS_ERROR_CONFIG_READ_KEY_EMPTY 3
+    #define EMOS_ERROR_CONFIG_READ_KEY_NOT_FOUND 4
+#endif
